@@ -25,3 +25,5 @@ class Customer:
         self._orders.append(order)
         coffee._orders.append(order)
         return order
+# customer = Customer(44)
+# print (customer.name)
