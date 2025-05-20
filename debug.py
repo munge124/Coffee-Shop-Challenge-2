@@ -5,7 +5,7 @@ from coffee import Coffee
 alice = Customer("Alice")
 latte = Coffee("Latte")
 
-order = alice.create_order(latte, 4.5)
+order = alice.create_order(latte, 5.5)
 
 
 print("Customer:", alice.name)
